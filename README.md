@@ -1,4 +1,6 @@
 # PortfolioTest
+Watch Live: https://instavanory.github.io/PortfolioTemplate/
+
 # Day 2
 1. Connected VCS with my GitHub account
 2. Created the first repository
